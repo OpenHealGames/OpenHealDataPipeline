@@ -1,0 +1,144 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+*.egg-info/
+pip-wheel-metadata/
+
+# VS Code settings
+.vscode/
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/tasks.json
+.vscode/*.code-workspace
+
+# PyCharm settings
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata
+*.ipynb-meta
+
+# Python virtual environments
+.venv/
+venv/
+ENV/
+env.bak/
+venv.bak/
+pyenv/
+
+# Pytest
+.cache/
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Environments
+.env
+.env.*
+.venv
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Pyre type checker
+.pyre/
+
+# Data files
+*.csv
+*.dat
+*.db
+*.log
+*.pkl
+*.sqlite3
+*.h5
+*.xlsx
+*.xls
+*.parquet
+*.feather
+
+# Archive files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+*.tgz
+*.bz2
+
+# Binary files
+*.bin
+*.exe
+*.dll
+*.deb
+*.dmg
+*.pkg
+*.iso
+
+# Executables
+*.out
+*.app
+*.run
+
+# Logs and temp files
+*.log
+*.temp
+*.tmp
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled source files
+*.class
+*.suo
+*.csproj
+*.sln
+*.swp
+*.obj
+*.o
+*.a
+*.lib
+*.pyc
+*.pyo
+*.pyd
+*.dll
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux system files
+*~
